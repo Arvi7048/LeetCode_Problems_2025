@@ -1,23 +1,22 @@
-class Solution {
-    public List<List<Integer>> permute(int[] nums) {
-        
-   List<List<Integer>> list = new ArrayList<>();
-   // Arrays.sort(nums); // not necessary
-   backtrack(list, new ArrayList<>(), nums);
-   return list;
-}
+import java.util.*;
 
-private void backtrack(List<List<Integer>> list, List<Integer> tempList, int [] nums){
-   if(tempList.size() == nums.length){
-      list.add(new ArrayList<>(tempList));
-   } else{
-      for(int i = 0; i < nums.length; i++){ 
-         if(tempList.contains(nums[i])) continue; // element already exists, skip
-         tempList.add(nums[i]);
-         backtrack(list, tempList, nums);
-         tempList.remove(tempList.size() - 1);
-      }
-   }
-} 
-    
+class Solution {
+    void getPer(List<Integer> arr, List<List<Integer>> result, int ind) {
+        if (ind == arr.size()) {
+            result.add(new ArrayList<>(arr)); // ✅ Add a copy to avoid reference issues
+            return;
+        }
+        for (int i = ind; i < arr.size(); i++) {
+            Collections.swap(arr, ind, i);
+            getPer(arr, result, ind + 1);
+            Collections.swap(arr, ind, i); // Backtrack
+        }
+    }
+
+    public List<List<Integer>> permute(int[] nums) {
+        List<List<Integer>> result = new ArrayList<>(); // ✅ Use ArrayList instead of Vector
+        List<Integer> arr = new ArrayList<>(Arrays.stream(nums).boxed().toList()); // ✅ Make it mutable
+        getPer(arr, result, 0);
+        return result;
+    }
 }
