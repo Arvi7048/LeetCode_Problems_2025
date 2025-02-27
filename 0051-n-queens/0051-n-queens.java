@@ -1,63 +1,51 @@
 import java.util.*;
 
 class Solution {
-    boolean isSafe(List<String> board, int row, int col, int n) {
-        // Horizontal check
-        for (int j = 0; j < n; j++) {
-            if (board.get(row).charAt(j) == 'Q') 
-                return false;
-        }
-        // Vertical check
-        for (int i = 0; i < n; i++) {
-            if (board.get(i).charAt(col) == 'Q') 
-                return false;
-        }
-        // Left diagonal check
-        for (int i = row, j = col; i >= 0 && j >= 0; i--, j--) {
-            if (board.get(i).charAt(j) == 'Q') 
-                return false;
-        }
-        // Right diagonal check
-        for (int i = row, j = col; i >= 0 && j < n; i--, j++) {
-            if (board.get(i).charAt(j) == 'Q') 
-                return false;
-        }
-        return true;
-    }
-
-    void nQueen(List<String> board, int row, int n, List<List<String>> ans) {
+    void solve(int row, int n, char[][] board, List<List<String>> ans, 
+               boolean[] cols, boolean[] diag1, boolean[] diag2) {
         if (row == n) {
-            ans.add(new ArrayList<>(board));
+            // Convert board to result format
+            List<String> temp = new ArrayList<>();
+            for (char[] line : board) {
+                temp.add(new String(line));
+            }
+            ans.add(temp);
             return;
         }
-        for (int j = 0; j < n; j++) {
-            if (isSafe(board, row, j, n)) {
-                // Convert string to StringBuilder for modification
-                StringBuilder newRow = new StringBuilder(board.get(row));
-                newRow.setCharAt(j, 'Q'); // Place Queen
-                
-                board.set(row, newRow.toString()); // Update board row
-                
-                nQueen(board, row + 1, n, ans);
-                
-                // Backtrack: Reset to '.'
-                newRow.setCharAt(j, '.');
-                board.set(row, newRow.toString());
+
+        for (int col = 0; col < n; col++) {
+            if (cols[col] || diag1[row - col + n - 1] || diag2[row + col]) {
+                continue; // Skip invalid positions
             }
+
+            // Place the queen
+            board[row][col] = 'Q';
+            cols[col] = diag1[row - col + n - 1] = diag2[row + col] = true;
+
+            // Recur to the next row
+            solve(row + 1, n, board, ans, cols, diag1, diag2);
+
+            // Backtrack
+            board[row][col] = '.';
+            cols[col] = diag1[row - col + n - 1] = diag2[row + col] = false;
         }
     }
 
     public List<List<String>> solveNQueens(int n) {
-        List<String> board = new ArrayList<>();
+        List<List<String>> ans = new ArrayList<>();
+        char[][] board = new char[n][n];
 
-        // Initialize board with "....." (n dots per row)
-        String row = ".".repeat(n);
-        for (int i = 0; i < n; i++) {
-            board.add(row);
+        // Initialize board with '.'
+        for (char[] row : board) {
+            Arrays.fill(row, '.');
         }
 
-        List<List<String>> ans = new ArrayList<>();
-        nQueen(board, 0, n, ans);
+        // Hash sets to track occupied columns and diagonals
+        boolean[] cols = new boolean[n];
+        boolean[] diag1 = new boolean[2 * n - 1]; // Left diagonal (row - col)
+        boolean[] diag2 = new boolean[2 * n - 1]; // Right diagonal (row + col)
+
+        solve(0, n, board, ans, cols, diag1, diag2);
         return ans;
     }
 }
