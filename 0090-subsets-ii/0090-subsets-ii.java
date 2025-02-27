@@ -1,17 +1,34 @@
+import java.util.*;
 class Solution {
-    private static void findsubset(int[] arr,List<List<Integer>> ans,int ind,List<Integer>subset){
-        ans.add(new ArrayList<>(subset));
-        for(int i=ind;i<arr.length;i++){
-            if(i!=ind && arr[i]==arr[i-1]) continue;
-            subset.add(arr[i]);
-            findsubset(arr,ans,i+1,subset);
-            subset.remove(subset.size()-1);
-        }
-    }
-    public List<List<Integer>> subsetsWithDup(int[] nums) {
-        Arrays.sort(nums);
-        List<List<Integer>> ans =new ArrayList<>();
-        findsubset(nums,ans,0,new ArrayList<>());
-        return ans;
+
+    void getSubset(int[] arr, List<Integer> ans, List<List<Integer>> result,int i){
+        if(i == arr.length){
+            result.add(new Vector<>(ans));
+                return;
+            }
+
+      
+      //include
+        ans.add(arr[i]);
+
+        getSubset(arr,ans,result,i+1);
+
+        ans.remove(ans.size()-1);// backtrack
+        int ind = i+1;
+        while(ind < arr.length && arr[ind] == arr[ind-1]){
+            ind++;
+        } 
+        //exclude
+        getSubset(arr,ans,result,ind);
+
+    }   
+         
+
+    public List<List<Integer>> subsetsWithDup(int[] arr) {
+        Arrays.sort(arr);
+        List<List<Integer>> result = new Vector<>();
+        List<Integer> ans = new Vector<>();
+        getSubset(arr,ans,result,0);
+        return result;
     }
 }
