@@ -73,4 +73,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0222-count-complete-tree-nodes) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
