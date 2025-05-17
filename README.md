@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0015-3sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0046-permutations](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0051-n-queens) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0015-3sum) |
 | [0061-rotate-list](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0061-rotate-list) |
 ## Dynamic Programming
 |  |
@@ -124,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
