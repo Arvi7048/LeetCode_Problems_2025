@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0051-n-queens) |
+| [0059-spiral-matrix-ii](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0059-spiral-matrix-ii) |
 | [0078-subsets](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0090-subsets-ii) |
 ## Backtracking
@@ -148,4 +149,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/2456-construct-smallest-number-from-di-string) |
+## Matrix
+|  |
+| ------- |
+| [0059-spiral-matrix-ii](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0059-spiral-matrix-ii) |
+## Simulation
+|  |
+| ------- |
+| [0059-spiral-matrix-ii](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
