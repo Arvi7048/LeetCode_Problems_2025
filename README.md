@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0005-longest-palindromic-substring) |
+| [0006-zigzag-conversion](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0006-zigzag-conversion) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Greedy
 |  |
