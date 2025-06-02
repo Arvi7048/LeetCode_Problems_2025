@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0090-subsets-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0222-count-complete-tree-nodes) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0060-permutation-sequence) |
 | [0070-climbing-stairs](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0070-climbing-stairs) |
