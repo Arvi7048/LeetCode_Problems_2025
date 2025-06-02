@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0060-permutation-sequence) |
 | [0070-climbing-stairs](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0070-climbing-stairs) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0006-zigzag-conversion) |
+| [0043-multiply-strings](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0043-multiply-strings) |
 | [0068-text-justification](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0068-text-justification) |
 | [0451-sort-characters-by-frequency](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0451-sort-characters-by-frequency) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0043-multiply-strings) |
 | [0059-spiral-matrix-ii](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0059-spiral-matrix-ii) |
 | [0068-text-justification](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0068-text-justification) |
 ## Monotonic Stack
