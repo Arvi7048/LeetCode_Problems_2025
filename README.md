@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0143-reorder-list](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0145-binary-tree-postorder-traversal) |
 | [0224-basic-calculator](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0224-basic-calculator) |
@@ -141,12 +142,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0060-permutation-sequence) |
+| [0143-reorder-list](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0143-reorder-list) |
 | [0224-basic-calculator](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0224-basic-calculator) |
 ## Linked List
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0061-rotate-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0143-reorder-list](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0143-reorder-list) |
 | [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
 ## Two Pointers
 |  |
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0018-4sum) |
 | [0061-rotate-list](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0061-rotate-list) |
+| [0143-reorder-list](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0143-reorder-list) |
 | [0321-create-maximum-number](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0321-create-maximum-number) |
 ## Dynamic Programming
 |  |
