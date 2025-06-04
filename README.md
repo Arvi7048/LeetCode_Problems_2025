@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0145-binary-tree-postorder-traversal) |
+| [0224-basic-calculator](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0224-basic-calculator) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Binary Search
 |  |
@@ -127,11 +128,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0060-permutation-sequence) |
 | [0070-climbing-stairs](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0070-climbing-stairs) |
+| [0224-basic-calculator](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0224-basic-calculator) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0060-permutation-sequence) |
+| [0224-basic-calculator](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0224-basic-calculator) |
 ## Linked List
 |  |
 | ------- |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0006-zigzag-conversion) |
 | [0043-multiply-strings](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0043-multiply-strings) |
 | [0068-text-justification](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0068-text-justification) |
+| [0224-basic-calculator](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0224-basic-calculator) |
 | [0451-sort-characters-by-frequency](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0451-sort-characters-by-frequency) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Greedy
