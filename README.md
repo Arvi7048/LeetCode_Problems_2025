@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0112-path-sum) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0222-count-complete-tree-nodes) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0112-path-sum) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0112-path-sum) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0222-count-complete-tree-nodes) |
@@ -112,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0094-binary-tree-inorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0145-binary-tree-postorder-traversal) |
 | [0224-basic-calculator](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0224-basic-calculator) |
@@ -142,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0061-rotate-list) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
 ## Two Pointers
 |  |
