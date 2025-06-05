@@ -1,24 +1,31 @@
 class Solution {
-    public int[] searchRange(int[] nums, int x) {
-       int[] arr = new int[]{-1, -1}; // Proper array initialization
-        int n = nums.length;
+    public int[] searchRange(int[] nums, int target) {
+        int first = findIndex(nums, target, true);
+        int last = findIndex(nums, target, false);
+        return new int[] {first, last};
+    }
 
-        if (n == 0) { // Edge case: empty array
-            return arr;
-        }
+    private int findIndex(int[] nums, int target, boolean findFirst) {
+        int low = 0, high = nums.length - 1;
+        int index = -1;
 
-        for (int i = 0; i < n; i++) {
-            if (nums[i] == x) {
-                arr[0] = i;
-                break;
+        while (low <= high) {
+            int mid = low + (high - low) / 2;
+
+            if (nums[mid] < target) {
+                low = mid + 1;
+            } else if (nums[mid] > target) {
+                high = mid - 1;
+            } else {
+                index = mid;
+                if (findFirst) {
+                    high = mid - 1; // Keep searching on left side
+                } else {
+                    low = mid + 1; // Keep searching on right side
+                }
             }
         }
-        for (int i = n - 1; i >= 0; i--) {
-            if (nums[i] == x) {
-                arr[1] = i;
-                break;
-            }
-        }
-        return arr;
+
+        return index;
     }
 }
