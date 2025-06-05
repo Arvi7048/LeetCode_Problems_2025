@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0059-spiral-matrix-ii) |
+| [0064-minimum-path-sum](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0064-minimum-path-sum) |
 | [0068-text-justification](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0068-text-justification) |
 | [0078-subsets](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0084-largest-rectangle-in-histogram) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0005-longest-palindromic-substring) |
+| [0064-minimum-path-sum](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0085-maximal-rectangle) |
 ## Memoization
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0037-sudoku-solver) |
 | [0059-spiral-matrix-ii](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0059-spiral-matrix-ii) |
+| [0064-minimum-path-sum](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0085-maximal-rectangle) |
 ## Simulation
 |  |
