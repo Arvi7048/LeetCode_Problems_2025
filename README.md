@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0164-maximum-gap) |
 | [0220-contains-duplicate-iii](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0220-contains-duplicate-iii) |
 | [0321-create-maximum-number](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0321-create-maximum-number) |
+| [0410-split-array-largest-sum](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0410-split-array-largest-sum) |
 | [0948-sort-an-array](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0948-sort-an-array) |
 | [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
 ## Backtracking
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0074-search-a-2d-matrix) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0222-count-complete-tree-nodes) |
+| [0410-split-array-largest-sum](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0410-split-array-largest-sum) |
 ## Math
 |  |
 | ------- |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0085-maximal-rectangle) |
+| [0410-split-array-largest-sum](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0410-split-array-largest-sum) |
 ## Memoization
 |  |
 | ------- |
@@ -216,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0321-create-maximum-number](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0321-create-maximum-number) |
+| [0410-split-array-largest-sum](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0410-split-array-largest-sum) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Matrix
 |  |
@@ -290,4 +294,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
