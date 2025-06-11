@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0005-longest-palindromic-substring) |
 | [0064-minimum-path-sum](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0085-maximal-rectangle) |
 | [0097-interleaving-string](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0097-interleaving-string) |
 | [0410-split-array-largest-sum](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0410-split-array-largest-sum) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0065-valid-number](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0065-valid-number) |
 | [0068-text-justification](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0097-interleaving-string) |
 | [0224-basic-calculator](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0224-basic-calculator) |
 | [0451-sort-characters-by-frequency](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0451-sort-characters-by-frequency) |
