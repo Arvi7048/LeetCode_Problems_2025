@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0090-subsets-ii) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0090-subsets-ii) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Bit Manipulation
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0094-binary-tree-inorder-traversal) |
 | [0099-recover-binary-search-tree](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0100-same-tree) |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0079-word-search) |
 | [0097-interleaving-string](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0097-interleaving-string) |
 | [0224-basic-calculator](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0224-basic-calculator) |
 | [0451-sort-characters-by-frequency](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0451-sort-characters-by-frequency) |
@@ -239,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0085-maximal-rectangle) |
 ## Simulation
 |  |
