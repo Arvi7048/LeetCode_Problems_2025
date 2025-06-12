@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0051-n-queens) |
+| [0055-jump-game](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0059-spiral-matrix-ii) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0005-longest-palindromic-substring) |
+| [0055-jump-game](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0072-edit-distance) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0055-jump-game) |
 | [0321-create-maximum-number](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0321-create-maximum-number) |
 | [0410-split-array-largest-sum](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0410-split-array-largest-sum) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/2456-construct-smallest-number-from-di-string) |
