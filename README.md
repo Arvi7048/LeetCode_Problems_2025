@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0321-create-maximum-number](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0321-create-maximum-number) |
 | [0410-split-array-largest-sum](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0410-split-array-largest-sum) |
 | [0948-sort-an-array](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0948-sort-an-array) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
 ## Backtracking
 |  |
