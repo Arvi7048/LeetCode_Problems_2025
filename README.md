@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0090-subsets-ii) |
+| [0119-pascals-triangle-ii](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0119-pascals-triangle-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0164-maximum-gap](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0164-maximum-gap) |
 | [0220-contains-duplicate-iii](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0220-contains-duplicate-iii) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0087-scramble-string](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0087-scramble-string) |
 | [0097-interleaving-string](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0115-distinct-subsequences) |
+| [0119-pascals-triangle-ii](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0119-pascals-triangle-ii) |
 | [0410-split-array-largest-sum](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0410-split-array-largest-sum) |
 ## Memoization
 |  |
