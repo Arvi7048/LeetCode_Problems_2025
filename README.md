@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0138-copy-list-with-random-pointer](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0138-copy-list-with-random-pointer) |
+| [0141-linked-list-cycle](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0143-reorder-list) |
 | [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
 ## Two Pointers
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0141-linked-list-cycle](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0143-reorder-list) |
 | [0321-create-maximum-number](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0321-create-maximum-number) |
 ## Dynamic Programming
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0139-word-break) |
+| [0141-linked-list-cycle](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0141-linked-list-cycle) |
 | [0451-sort-characters-by-frequency](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0451-sort-characters-by-frequency) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
