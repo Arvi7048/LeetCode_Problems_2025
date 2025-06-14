@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0130-surrounded-regions](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0130-surrounded-regions) |
+| [0133-clone-graph](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0133-clone-graph) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0126-word-ladder-ii](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0126-word-ladder-ii) |
 | [0130-surrounded-regions](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0130-surrounded-regions) |
+| [0133-clone-graph](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0133-clone-graph) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0037-sudoku-solver) |
 | [0126-word-ladder-ii](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0126-word-ladder-ii) |
+| [0133-clone-graph](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0133-clone-graph) |
 | [0451-sort-characters-by-frequency](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0451-sort-characters-by-frequency) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
@@ -365,4 +368,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0130-surrounded-regions) |
+## Graph
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0133-clone-graph) |
 <!---LeetCode Topics End-->
