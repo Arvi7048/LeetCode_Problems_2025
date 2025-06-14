@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0090-subsets-ii) |
 | [0126-word-ladder-ii](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0126-word-ladder-ii) |
+| [0131-palindrome-partitioning](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0131-palindrome-partitioning) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Bit Manipulation
 |  |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0115-distinct-subsequences) |
 | [0119-pascals-triangle-ii](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0119-pascals-triangle-ii) |
+| [0131-palindrome-partitioning](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0131-palindrome-partitioning) |
 | [0410-split-array-largest-sum](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0410-split-array-largest-sum) |
 ## Memoization
 |  |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0126-word-ladder-ii) |
+| [0131-palindrome-partitioning](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0131-palindrome-partitioning) |
 | [0224-basic-calculator](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0224-basic-calculator) |
 | [0451-sort-characters-by-frequency](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0451-sort-characters-by-frequency) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/2456-construct-smallest-number-from-di-string) |
