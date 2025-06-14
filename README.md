@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0119-pascals-triangle-ii) |
 | [0130-surrounded-regions](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0135-candy) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0164-maximum-gap](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0164-maximum-gap) |
 | [0220-contains-duplicate-iii](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0220-contains-duplicate-iii) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0135-candy) |
 | [0321-create-maximum-number](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0321-create-maximum-number) |
 | [0410-split-array-largest-sum](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0410-split-array-largest-sum) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/2456-construct-smallest-number-from-di-string) |
