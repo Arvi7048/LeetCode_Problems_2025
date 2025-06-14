@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0090-subsets-ii) |
+| [0126-word-ladder-ii](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0126-word-ladder-ii) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Bit Manipulation
 |  |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0126-word-ladder-ii](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0126-word-ladder-ii) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0037-sudoku-solver) |
+| [0126-word-ladder-ii](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0126-word-ladder-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0451-sort-characters-by-frequency) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
@@ -248,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0087-scramble-string](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0087-scramble-string) |
 | [0097-interleaving-string](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0115-distinct-subsequences) |
+| [0126-word-ladder-ii](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0126-word-ladder-ii) |
 | [0224-basic-calculator](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0224-basic-calculator) |
 | [0451-sort-characters-by-frequency](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0451-sort-characters-by-frequency) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/2456-construct-smallest-number-from-di-string) |
