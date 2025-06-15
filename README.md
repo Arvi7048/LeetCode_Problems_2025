@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0139-word-break) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0164-maximum-gap](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0164-maximum-gap) |
 | [0220-contains-duplicate-iii](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0220-contains-duplicate-iii) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0224-basic-calculator) |
 | [0321-create-maximum-number](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0321-create-maximum-number) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0060-permutation-sequence) |
 | [0070-climbing-stairs](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0089-gray-code) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0224-basic-calculator) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/2704-maximum-difference-by-remapping-a-digit) |
