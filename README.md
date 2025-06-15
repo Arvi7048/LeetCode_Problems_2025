@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0146-lru-cache) |
 | [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
 ## Two Pointers
 |  |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0146-lru-cache) |
 | [0451-sort-characters-by-frequency](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0451-sort-characters-by-frequency) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0146-lru-cache) |
 | [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
 ## Prefix Sum
 |  |
@@ -394,4 +397,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0139-word-break) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
