@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0224-basic-calculator) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Recursion
 |  |
 | ------- |
@@ -422,4 +423,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0155-min-stack) |
+## Combinatorics
+|  |
+| ------- |
+| [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 <!---LeetCode Topics End-->
