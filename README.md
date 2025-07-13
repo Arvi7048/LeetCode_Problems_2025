@@ -252,11 +252,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0410-split-array-largest-sum) |
+| [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0139-word-break) |
+| [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 ## Hash Table
 |  |
 | ------- |
