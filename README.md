@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0018-4sum) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0006-zigzag-conversion) |
+| [0014-longest-common-prefix](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0014-longest-common-prefix) |
 | [0043-multiply-strings](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0043-multiply-strings) |
 | [0065-valid-number](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0065-valid-number) |
 | [0068-text-justification](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0068-text-justification) |
@@ -432,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0139-word-break) |
 ## Design
 |  |
