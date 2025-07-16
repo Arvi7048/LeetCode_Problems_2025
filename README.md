@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0160-intersection-of-two-linked-lists) |
+| [0205-isomorphic-strings](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0205-isomorphic-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0451-sort-characters-by-frequency) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0165-compare-version-numbers) |
+| [0205-isomorphic-strings](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0205-isomorphic-strings) |
 | [0224-basic-calculator](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0224-basic-calculator) |
 | [0451-sort-characters-by-frequency](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0451-sort-characters-by-frequency) |
 | [2032-largest-odd-number-in-string](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/2032-largest-odd-number-in-string) |
