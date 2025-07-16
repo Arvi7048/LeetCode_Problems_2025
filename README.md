@@ -318,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0205-isomorphic-strings) |
 | [0224-basic-calculator](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0224-basic-calculator) |
 | [0451-sort-characters-by-frequency](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0451-sort-characters-by-frequency) |
+| [0812-rotate-string](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0812-rotate-string) |
 | [2032-largest-odd-number-in-string](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/2032-largest-odd-number-in-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3396-valid-word](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/3396-valid-word) |
@@ -447,4 +448,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
