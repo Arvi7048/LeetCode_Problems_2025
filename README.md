@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0948-sort-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
 ## Backtracking
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0410-split-array-largest-sum) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
+| [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 ## Memoization
 |  |
 | ------- |
