@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0089-gray-code) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0166-fraction-to-recurring-decimal) |
 | [0224-basic-calculator](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0224-basic-calculator) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0160-intersection-of-two-linked-lists) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0166-fraction-to-recurring-decimal) |
 | [0205-isomorphic-strings](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0451-sort-characters-by-frequency) |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0166-fraction-to-recurring-decimal) |
 | [0205-isomorphic-strings](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0205-isomorphic-strings) |
 | [0224-basic-calculator](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0242-valid-anagram) |
