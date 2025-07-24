@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0152-maximum-product-subarray) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0164-maximum-gap](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0164-maximum-gap) |
+| [0174-dungeon-game](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0174-dungeon-game) |
 | [0220-contains-duplicate-iii](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0220-contains-duplicate-iii) |
 | [0238-product-of-array-except-self](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0238-product-of-array-except-self) |
 | [0321-create-maximum-number](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0321-create-maximum-number) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0152-maximum-product-subarray) |
+| [0174-dungeon-game](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0174-dungeon-game) |
 | [0410-split-array-largest-sum](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0410-split-array-largest-sum) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0130-surrounded-regions) |
+| [0174-dungeon-game](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0174-dungeon-game) |
 ## Simulation
 |  |
 | ------- |
