@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0171-excel-sheet-column-number) |
+| [0172-factorial-trailing-zeroes](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0172-factorial-trailing-zeroes) |
 | [0224-basic-calculator](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0224-basic-calculator) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
