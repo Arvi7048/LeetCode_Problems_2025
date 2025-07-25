@@ -493,5 +493,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0177-nth-highest-salary](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0177-nth-highest-salary) |
 | [0180-consecutive-numbers](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0180-consecutive-numbers) |
 | [0577-employee-bonus](https://github.com/Arvi7048/LeetCode_Problems_2025/tree/master/0577-employee-bonus) |
+| [1415-students-and-examinations](https://github.com/Arvi7048/LeetCode_Problems_2025/tree/master/1415-students-and-examinations) |
 | [1801-average-time-of-process-per-machine](https://github.com/Arvi7048/LeetCode_Problems_2025/tree/master/1801-average-time-of-process-per-machine) |
 <!---LeetCode Topics End-->
