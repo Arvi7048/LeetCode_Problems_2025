@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0173-binary-search-tree-iterator) |
 | [0224-basic-calculator](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0224-basic-calculator) |
+| [0234-palindrome-linked-list](https://github.com/Arvi7048/LeetCode_Problems_2025/tree/master/0234-palindrome-linked-list) |
 | [0321-create-maximum-number](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0321-create-maximum-number) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Binary Search
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0060-permutation-sequence) |
 | [0143-reorder-list](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0143-reorder-list) |
 | [0224-basic-calculator](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0224-basic-calculator) |
+| [0234-palindrome-linked-list](https://github.com/Arvi7048/LeetCode_Problems_2025/tree/master/0234-palindrome-linked-list) |
 ## Linked List
 |  |
 | ------- |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/Arvi7048/LeetCode_Problems_2025/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Arvi7048/LeetCode_Problems_2025/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
@@ -251,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0165-compare-version-numbers) |
+| [0234-palindrome-linked-list](https://github.com/Arvi7048/LeetCode_Problems_2025/tree/master/0234-palindrome-linked-list) |
 | [0321-create-maximum-number](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0321-create-maximum-number) |
 | [0908-middle-of-the-linked-list](https://github.com/Arvi7048/LeetCode_Problems_2025/tree/master/0908-middle-of-the-linked-list) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/2497-maximum-matching-of-players-with-trainers) |
