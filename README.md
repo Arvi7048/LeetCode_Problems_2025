@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Arvi7048/LeetCode_Problems_2025/tree/master/0234-palindrome-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/Arvi7048/LeetCode_Problems_2025/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Arvi7048/LeetCode_Problems_2025/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
