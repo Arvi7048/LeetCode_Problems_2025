@@ -306,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0451-sort-characters-by-frequency) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/Arvi7048/LeetCode_Problems_2025/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
 ## Sorting
 |  |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0812-rotate-string) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/Arvi7048/LeetCode_Problems_2025/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2032-largest-odd-number-in-string](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/2032-largest-odd-number-in-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3396-valid-word](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/3396-valid-word) |
