@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0321-create-maximum-number](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0321-create-maximum-number) |
 | [0410-split-array-largest-sum](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0410-split-array-largest-sum) |
 | [0948-sort-an-array](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0948-sort-an-array) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/Arvi7048/LeetCode_Problems_2025/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/Arvi7048/LeetCode_Problems_2025/tree/master/0234-palindrome-linked-list) |
 | [0321-create-maximum-number](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0321-create-maximum-number) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/Arvi7048/LeetCode_Problems_2025/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Binary Search
 |  |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2032-largest-odd-number-in-string](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/2032-largest-odd-number-in-string) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/Arvi7048/LeetCode_Problems_2025/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Recursion
@@ -508,4 +511,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0577-employee-bonus](https://github.com/Arvi7048/LeetCode_Problems_2025/tree/master/0577-employee-bonus) |
 | [1415-students-and-examinations](https://github.com/Arvi7048/LeetCode_Problems_2025/tree/master/1415-students-and-examinations) |
 | [1801-average-time-of-process-per-machine](https://github.com/Arvi7048/LeetCode_Problems_2025/tree/master/1801-average-time-of-process-per-machine) |
+## Number Theory
+|  |
+| ------- |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/Arvi7048/LeetCode_Problems_2025/tree/master/2307-replace-non-coprime-numbers-in-array) |
 <!---LeetCode Topics End-->
