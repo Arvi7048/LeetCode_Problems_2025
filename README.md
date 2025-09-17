@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Arvi7048/LeetCode_Problems_2025/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [2429-design-a-food-rating-system](https://github.com/Arvi7048/LeetCode_Problems_2025/tree/master/2429-design-a-food-rating-system) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0451-sort-characters-by-frequency) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Arvi7048/LeetCode_Problems_2025/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [2429-design-a-food-rating-system](https://github.com/Arvi7048/LeetCode_Problems_2025/tree/master/2429-design-a-food-rating-system) |
 | [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
 ## Sorting
 |  |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0812-rotate-string) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Arvi7048/LeetCode_Problems_2025/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2032-largest-odd-number-in-string](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/2032-largest-odd-number-in-string) |
+| [2429-design-a-food-rating-system](https://github.com/Arvi7048/LeetCode_Problems_2025/tree/master/2429-design-a-food-rating-system) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3396-valid-word](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/3396-valid-word) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
@@ -424,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0220-contains-duplicate-iii) |
+| [2429-design-a-food-rating-system](https://github.com/Arvi7048/LeetCode_Problems_2025/tree/master/2429-design-a-food-rating-system) |
 | [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
 ## Radix Sort
 |  |
@@ -435,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0451-sort-characters-by-frequency) |
 | [0948-sort-an-array](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0948-sort-an-array) |
+| [2429-design-a-food-rating-system](https://github.com/Arvi7048/LeetCode_Problems_2025/tree/master/2429-design-a-food-rating-system) |
 | [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
 ## Counting
 |  |
@@ -489,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0173-binary-search-tree-iterator) |
+| [2429-design-a-food-rating-system](https://github.com/Arvi7048/LeetCode_Problems_2025/tree/master/2429-design-a-food-rating-system) |
 ## Combinatorics
 |  |
 | ------- |
