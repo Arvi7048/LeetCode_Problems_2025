@@ -312,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Arvi7048/LeetCode_Problems_2025/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2429-design-a-food-rating-system](https://github.com/Arvi7048/LeetCode_Problems_2025/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/Arvi7048/LeetCode_Problems_2025/tree/master/3678-design-task-manager) |
 | [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
 ## Sorting
 |  |
@@ -428,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0220-contains-duplicate-iii) |
 | [2429-design-a-food-rating-system](https://github.com/Arvi7048/LeetCode_Problems_2025/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/Arvi7048/LeetCode_Problems_2025/tree/master/3678-design-task-manager) |
 | [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
 ## Radix Sort
 |  |
@@ -440,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0451-sort-characters-by-frequency) |
 | [0948-sort-an-array](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0948-sort-an-array) |
 | [2429-design-a-food-rating-system](https://github.com/Arvi7048/LeetCode_Problems_2025/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/Arvi7048/LeetCode_Problems_2025/tree/master/3678-design-task-manager) |
 | [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
 ## Counting
 |  |
@@ -495,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0173-binary-search-tree-iterator) |
 | [2429-design-a-food-rating-system](https://github.com/Arvi7048/LeetCode_Problems_2025/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/Arvi7048/LeetCode_Problems_2025/tree/master/3678-design-task-manager) |
 ## Combinatorics
 |  |
 | ------- |
