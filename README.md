@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0238-product-of-array-except-self) |
 | [0321-create-maximum-number](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0321-create-maximum-number) |
 | [0410-split-array-largest-sum](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0410-split-array-largest-sum) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/Arvi7048/LeetCode_Problems_2025/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0948-sort-an-array](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/0948-sort-an-array) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Arvi7048/LeetCode_Problems_2025/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Arvi7048/Assignment_BTech2026_2201921520041/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
